@@ -15,9 +15,9 @@ Retrieved 2026-10-13.
 | `codes/` | 1 |
 | `constitution/` | 1 |
 | `lois-organiques/` | 27 |
-| `lois/` | 883 |
-| `ordonnances/` | 406 |
-| **Total** | **1318** |
+| `lois/` | 989 |
+| `ordonnances/` | 976 |
+| **Total** | **1994** |
 <!-- /COUNTS -->
 
 ## Structure
@@ -40,7 +40,7 @@ appended to the file name.
 
 | Source | URL |
 |---|---|
-| Journal officiel de la République gabonaise — database (keyword search "loi", 9,697 results) | https://www.journal-officiel.ga/recherche |
+| Journal officiel de la République gabonaise — database (keyword searches) | https://www.journal-officiel.ga/recherche |
 | Constitution of 19 December 2024 (JO n° 47 bis) — Government portal | https://gouvernement.ga/wp-content/uploads/2025/11/Constitution-du-19-decembre-2024-de-la-Republique-Gabonaise_BON.pdf |
 | Code électoral 2025 — Government portal | https://gouvernement.ga/code-electoral/ |
 
@@ -53,9 +53,13 @@ governed the State; a new Constitution was adopted by referendum on 16 November 
 
 ## Not covered / known gaps
 
-* The database is listed through its keyword search (the advanced search by document type returns no results);
-  only results whose title starts with "Loi", "Loi organique" or "Ordonnance" are kept. Decrees, arrêtés,
-  decisions of the Constitutional Court and other acts are not included.
+* The database is listed through its keyword search (the advanced search by document type returns no results). The
+  search has OR semantics and stops after 495 result pages (4,950 results), so four searches are combined: "loi"
+  (9,697 results, first 4,950 listed), "promulgue" (1,697), "teneur" (1,469; pages after 21 could not be retrieved)
+  and "ordonnance" (2,253). Together they list 6,307 distinct documents, of which those whose title starts with
+  "Loi", "Loi organique" or "Ordonnance" are kept. **Laws that none of these searches reached are missing**; the
+  coverage of laws is therefore incomplete, especially for older laws. Decrees, arrêtés, decisions of the
+  Constitutional Court and other acts are not included.
 * The consolidated codes listed on journal-officiel.ga ("Codes en vigueur") have no accessible text and are not
   included; the codes appear only through the laws that enacted or amended them, when present in the database.
 * The site's own "Constitution" page holds the superseded 1991 Constitution; the 2024 Constitution is taken from the
