@@ -1,0 +1,210 @@
+---
+title: "Ordonnance N° 00013/PR/2015 du 16/07/2015 portant modification et suppression de certaines dispositions de la loi n°001/2005 du 4 février 2005 portant Statut Général de la Fonction Publique"
+identifier: "Ordonnance N° 00013/PR/2015 du 16/07/2015"
+type: act
+jurisdiction: ga
+language: fr
+date: 2015-07-16
+status: unknown
+source: "https://www.journal-officiel.ga/2827-00013-pr-2015/"
+gazette: "JOURNAL OFFICIEL N°262 BIS DU 27 JUILLET 2015"
+retrieved: 2026-10-13
+---
+
+# Ordonnance N° 00013/PR/2015 du 16/07/2015 portant modification et suppression de certaines dispositions de la loi n°001/2005 du 4 février 2005 portant Statut Général de la Fonction Publique
+
+LE PRESIDENT DE LA REPUBLIQUE,
+
+CHEF DE L'ETAT ;
+
+Vu la Constitution ;
+
+Vu la loi n°010/2015 du 14 juillet 2015 autorisant le Président de la République à légiférer par ordonnances pendant l'intersession parlementaire ;
+
+Vu la loi n°001/2005 du 4 février 2005 portant Statut Général de la Fonction Publique, ensemble les textes modificatifs subséquents ;
+
+Vu la loi n° 8/91 du 26 septembre 1991 portant Statut Général des fonctionnaires, ensemble les textes modificatifs subséquents ;
+
+Vu la loi n°3/88 du 31 juillet 1990 fixant les conditions générales d'emploi des agents contractuels de l'Etat ;
+
+Vu le décret n°0309/PR/MFPRAMCJI du 25 septembre 2015 portant attributions et organisation du Ministère de la Fonction Publique, de la Réforme Administrative et de la Modernisation des Cadres Juridiques et Institutionnels ;
+
+Vu le décret n°033/PR du 24 janvier 2014 portant nomination du Premier Ministre, Chef du Gouvernement ;
+
+Vu le décret n°0353/PR du 03 octobre 2014 fixant la composition du Gouvernement de la République ;
+
+Après avis du Comité National des Rémunérations ;
+
+Le Conseil d'Etat consulté ;
+
+Le Conseil des Ministres entendu ;
+
+O R D O N N E :
+
+## Article 1er
+
+Les articles 14, 78, 79, 81, 82, 101, 105, 106, 126, 153 et 167 sont modifiés et se lisent désormais comme suit :
+
+« Article 14 nouveau : La durée maximale du contrat prévue à l'article 12 ci-dessus est de trois ans renouvelable une fois, par reconduction expresse notifiée trois mois avant son terme.
+
+Toutefois en cas de nécessité absolue, un nouveau contrat peut être signé entre l'Etat et l'agent concerné sous les conditions fixées à l'alinéa ci-dessus.»
+
+« Article 78 nouveau : La rémunération est la contrepartie du service fait par l'agent public. Elle correspond :
+
+-au traitement pour les agents publics permanents ;
+
+-au salaire pour les agents publics non permanents.
+
+Le traitement se compose de la solde de base et des accessoires de solde.
+
+Le salaire correspond à une solde forfaitaire globale.
+
+Les accessoires de solde comprennent les primes et les indemnités. »
+
+« Article 79 nouveau : Les primes ont exclusivement pour objet :
+
+-de rétribuer les sujétions de responsabilité attachées à l'exercice de certaines fonctions ;
+
+-d'encadrement ou de valoriser certains emplois en raison de leur importance ;
+
+-de rétribuer la manière de servir et la productivité de l'agent public dans son emploi.
+
+Le total des primes dont peut bénéficier un agent ne peut excéder la moitié de sa solde de base.
+
+Les primes sont imposables. »
+
+« Article 81 nouveau : Les indemnités ont pour objet :
+
+-de compenser les droits non couverts ;
+
+-de compenser les astreintes ;
+
+-de supporter les charges ou aléas professionnels ;
+
+-de rembourser les frais exposés ou susceptibles d'être exposés du fait des emplois occupés.
+
+Les indemnités ne sont pas imposables. »
+
+« Article 82 nouveau : Les modalités d'octroi des primes et indemnités sont fixées par décret pris en Conseil des Ministres sur proposition conjointe des Ministres chargés de la Fonction Publique et du Budget, après avis du Comité National des Rémunérations. »
+
+« Article 101 nouveau : Les statuts particuliers visés à l'article 24 ci-dessus sont fixés par une loi et déterminent :
+
+-le cadre institutionnel, les organes et les principes de gestion des ressources humaines ;
+
+-les principes régissant le recrutement, la période probatoire, la titularisation et la cessation des fonctions ;
+
+-les garanties fondamentales accordées aux agents publics du secteur considéré ;
+
+-les droits et obligations respectifs de l'agent et de l'autorité publics, les régimes disciplinaires ;
+
+-les positions statutaires ;
+
+-les principes régissant l'évaluation des performances et la prise en compte de résultats ;
+
+-les modes et conditions de cessation définitive d'activité ;
+
+-les mesures de protection sanitaire et sociale ;
+
+-les dispositions relatives au contrat d'engagement.»
+
+« Article 105 nouveau : Les corps des agents publics permanents sont classés et répartis en fonction de leur niveau de recrutement en quatre catégories désignées de la manière suivante :
+
+-première catégorie ou A1 ;
+
+-deuxième catégorie ou A2 ;
+
+-troisième catégorie ou B1 ;
+
+-quatrième catégorie ou B2.
+
+Le niveau de recrutement correspondant à chaque catégorie définie ci-dessus est le suivant :
+
+-première catégorie ou A1 : titre ou diplômes de l'enseignement supérieur sanctionnant un cycle minimum de cinq années d'études universitaires et assortis d'un diplôme de spécialisation ouvrant accès à un corps d'agents publics permanents, dans les conditions fixées par les statuts particuliers ;
+
+-deuxième catégorie ou A2 : titre ou diplômes de l'enseignement supérieur sanctionnant un cycle minimum de trois années d'études universitaires et assortis d'un diplôme de spécialisation ouvrant accès à un corps d'agents publics permanents, dans les conditions fixées par les statuts particuliers ;
+
+-troisième catégorie ou B1 : baccalauréat de l'enseignement secondaire, titre ou diplôme équivalent assorti d'un diplôme de spécialisation, dans les conditions fixées par les statuts particuliers ;
+
+-quatrième catégorie ou B2 : brevet d'études du premier cycle B.E.P.C., titre ou diplôme équivalent assorti d'un diplôme de spécialisation, dans les conditions fixées par les statuts particuliers. »
+
+« Article 106 nouveau : Chaque corps d'agents publics permanents est subdivisé en deux grades : le grade normal et le grade supérieur.
+
+Le grade normal comprend un échelon stagiaire et trois classes de trois échelons chacune.
+
+Le grade supérieur à classe unique, comprend cinq échelons. »
+
+« Article 126 nouveau : L'agent public permanent a droit à l'avancement.
+
+L'avancement est le passage à l'échelon, à la classe ou au grade immédiatement supérieur au sein de la même catégorie statutaire.
+
+L'avancement s'effectue exclusivement au mérite.
+
+Un décret pris sur proposition du Ministre chargé de la Fonction Publique fixe les modalités d'application du présent article. »
+
+« Article 153 nouveau : Conformément aux dispositions de l'article 12 ci-dessus, l'agent public non permanent est lié à l'Administration par un contrat.
+
+Les conditions d'engagement et de rémunération de l'agent ainsi que celles relatives au renouvellement et à la résiliation du contrat, sont fixées par des textes particuliers. »
+
+« Article 167 nouveau : Le salaire de l'agent public non permanent est fonction du groupe auquel appartient l'emploi qu'il occupe.
+
+Les emplois sont classés en trois groupes.
+
+Le premier groupe est constitué des emplois de prestations intellectuelles de haut niveau et de mise en œuvre de techniques complexes. Le recrutement aux emplois de ce groupe requiert une formation sanctionnée par au moins un diplôme de fin de second cycle de l'enseignement supérieur et une expérience professionnelle de dix ans au moins dans les emplois de ce niveau.
+
+Le deuxième groupe est constitué des emplois de direction, de coordination, de supervision, de contrôle, de conception, de recherche, d'études et de conseil. Le recrutement aux emplois de ce groupe requiert une formation sanctionnée par au moins un diplôme de fin de second cycle de l'enseignement supérieur et une expérience professionnelle minimale de cinq ans.
+
+Le troisième groupe est constitué des emplois principaux d'assistance aux tâches de direction et des emplois de collaboration ou d'application technique spécialisée supérieure. Le recrutement aux emplois de ce groupe requiert une formation sanctionnée par au moins un diplôme de fin de premier cycle de l'enseignement supérieur et d'une expérience professionnelle minimale de trois ans.
+
+Un texte réglementaire détermine la classification des emplois de la fonction publique par niveau ainsi que les salaires correspondants. »
+
+## Article 2
+
+L'intitulé du chapitre 8 du titre III de la loi n°001/2005 du 4 février 2005 susvisée est modifié et se lit désormais comme suit : « Des avantages et récompenses ».
+
+## Article 3
+
+Il est créé au chapitre 7 du titre III de la loi n°001/2005 du 4 février 2005 susvisée, un article 78 bis nouveau et 82 bis nouveau libellés ainsi qu'il suit :
+
+« Article 78 bis nouveau : La rémunération due à l'agent public est versée mensuellement à terme échu et au prorata du nombre de jours travaillés par trentième partie du traitement ou du salaire.
+
+Toutefois, l'agent admis à faire valoir ses droits à la retraite, ainsi que l'agent décédé en cours de mois ont droit, au titre dudit mois, à l'entièreté de la rémunération. »
+
+« Article 82 bis nouveau : Des décrets pris en Conseil des Ministres, après avis du Comité National des Rémunérations, déterminent le régime de rémunération des agents publics. »
+
+## Article 4
+
+Les articles 80, 86, 127, 128, 129, 154 à 166 et 168 à 192 sont supprimés.
+
+## Article 5
+
+Des textes réglementaires, pris sur proposition conjointe des Ministres chargés du Budget et de la Fonction Publique, fixent les modalités d'apurement des situations constitutives des droits acquis des agents éligibles à l'indemnité de services rendus avant l'entrée en vigueur de la présente ordonnance.
+
+## Article 6
+
+La présente ordonnance, qui abroge toutes dispositions antérieures contraires, notamment celles des lois n°001/2005 du 4 février 2005, n°8/91 du 26 septembre 1991 et n°3/88 du 31 juillet 1990 susvisées, sera enregistrée, publiée selon la procédure d'urgence et exécutée comme loi de l'Etat.
+
+Fait à Libreville, le 16 juillet 2015
+
+Par le Président de la République,
+
+Chef de l’Etat
+
+Ali BONGO ONDIMBA
+
+Le Premier Ministre, Chef du Gouvernement
+
+Pr. Daniel ONA ONDO
+
+Le Ministre de la Fonction Publique et de la Réforme Administrative
+
+Jean-Marie OGANDAGA
+
+Le Ministre du Budget et des Comptes Publics
+
+Christian MAGNAGNA
+
+Abonnez-vous au Journal Officiel de la République Gabonaise
+
+Inscrivez-vous et recevez votre exemplaire du journal Officiel de la république Gabonaise.
+
+ABONNEZ VOUS
