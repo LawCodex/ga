@@ -1,0 +1,56 @@
+---
+title: "Ordonnance N° 30/PR du 25/04/1964 accordant l'aval de l’État Gabonais à un emprunt de la Banque Gabonaise de Développement auprès de la Caisse Centrale de Coopération Économique, d'un montant de 800.000 francs français ( quarante millions CFA), destiné aux travaux de protection du rivage maritime à Port-Gentil."
+identifier: "Ordonnance N° 30/PR du 25/04/1964"
+type: act
+jurisdiction: ga
+language: fr
+date: 1964-04-25
+status: unknown
+source: "https://www.journal-officiel.ga/12438-30-pr-/"
+gazette: "JOURNAL OFFICIEL N°13 6èME DU 25 AVRIL 1964"
+retrieved: 2026-10-13
+---
+
+# Ordonnance N° 30/PR du 25/04/1964 accordant l'aval de l’État Gabonais à un emprunt de la Banque Gabonaise de Développement auprès de la Caisse Centrale de Coopération Économique, d'un montant de 800.000 francs français ( quarante millions CFA), destiné aux travaux de protection du rivage maritime à Port-Gentil.
+
+Vu la loi constitutionnelle No 1/61 du 21 février 1961 ;
+
+Vu la loi No 60/63 du 28 décembre 1963, autorisant le Président de la République à légiférer par ordonnance pendant la période d'intersession de l'Assemblée Nationale ;
+
+Vu le décret No 75/PR en date du 24 février 1964, portant nomination des membres du Gouvernement ;
+
+La Cour Suprême consultée ;
+
+Le Conseil des Ministres entendu ;
+
+Le Président de la République, Chef du Gouvernement ;
+
+O R D O N N E
+
+## Article premier
+
+L'Etat Gabonais est autorisé à accorder son aval à un emprunt de la Banque Gabonaise de Développement auprès de la Caisse Centrale de Coopération Economique d'un montant de 800.000 francs français (quarante millions CFA), destiné au financement partiel des travaux de protection du rivage maritime à Port-Gentil.
+
+## Article 2
+
+La présente ordonnance sera promulguée et exécutée comme loi de l'Etat.
+
+Fait à Libreville, le 25 avril 1964.
+
+Pour le Président de la République
+
+et par délégation,
+
+Le Secrétaire Général du Gouvernement,
+
+J.-R. AYOUNE.
+
+Le Ministre d'Etat chargé de l'Economie Nationale, du Plan et des Mines, Ministre des Finances
+
+A.-G. ANGUILE
+
+Abonnez-vous au Journal Officiel de la République Gabonaise
+
+Inscrivez-vous et recevez votre exemplaire du journal Officiel de la république Gabonaise.
+
+ABONNEZ VOUS

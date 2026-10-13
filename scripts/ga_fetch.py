@@ -40,11 +40,22 @@ def session():
     return s
 
 
+QUERIES = ["loi", "promulgue", "teneur", "ordonnance"]  # OR-semantics keyword search; results are capped at 495 pages
+
+
 def search_pages():
-    """Paginate the keyword search 'loi' (session-based pagination). Returns list of (href, title, summary)."""
+    out = {}
+    for q in QUERIES:
+        for e in search_query(q):
+            out.setdefault(e[0], e)
+    return list(out.values())
+
+
+def search_query(query):
+    """Paginate a keyword search (session-based pagination). Returns list of (href, title, summary)."""
     import time
     out = {}
-    cache = os.path.join(RAW, "search")
+    cache = os.path.join(RAW, "search" if query == "loi" else "search-" + query)
     os.makedirs(cache, exist_ok=True)
     s = None
     page, total_pages = 1, None
@@ -54,9 +65,14 @@ def search_pages():
             for attempt in range(4):
                 if s is None or attempt:
                     s = session()
-                    time.sleep(DELAY)
-                    r = s.post(JO + "/recherche", data={"fieldStr[status]": "ENA", "type[]": "documentLegislatif",
-                                                       "smallSearch": "loi"}, timeout=120)
+                    time.sleep(DELAY * (1 + attempt))
+                    try:
+                        r = s.post(JO + "/recherche", data={"fieldStr[status]": "ENA", "type[]": "documentLegislatif",
+                                                           "smallSearch": query}, timeout=120)
+                    except Exception as e:  # noqa
+                        print("retry search", query, e)
+                        s = None
+                        continue
                     if page == 1:
                         txt = r.text
                 time.sleep(DELAY)
@@ -74,8 +90,8 @@ def search_pages():
         txt = open(dest, encoding="utf-8").read()
         if total_pages is None:
             m = re.search(r"(\d+)\s+El[ée]ments trouv[ée]s", txt)
-            total_pages = (int(m.group(1)) + 9) // 10 if m else 1
-            print("results", m and m.group(1), "pages", total_pages)
+            total_pages = min(495, (int(m.group(1)) + 9) // 10) if m else 1
+            print(query, "results", m and m.group(1), "pages", total_pages)
         for href, title, summ in re.findall(r'<a href="(/\d+-[^"]*)">\s*<span class="title">(.*?)</span><br/>(.*?)</a>', txt, re.S):
             out.setdefault(href, (T.norm(html.unescape(re.sub(r"\s+", " ", title))),
                                   T.norm(html.unescape(re.sub(r"<[^>]+>|\s+", " ", summ)))))
